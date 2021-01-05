@@ -1,6 +1,6 @@
 # starred-projects
 
 ## image classification
-EfficientNet: 
+EfficientNet: paper: https://arxiv.org/abs/1905.11946 
 
-paper: https://arxiv.org/abs/1905.11946 codes: https://github.com/qubvel/efficientnet (keras, tensorflow)
+codes: https://github.com/qubvel/efficientnet (keras, tensorflow)
